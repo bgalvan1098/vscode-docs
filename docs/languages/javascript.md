@@ -14,7 +14,7 @@ Visual Studio Code includes built-in JavaScript IntelliSense, debugging, formatt
 
 ![Working with JavaScript in Visual Studio Code](images/javascript/overview.png)
 
-Most of these features just work out of the box, while some may require basic configuration to get the best experience. This page summarizes the JavaScript features that VS Code ships with. Extensions from the [VS Code Marketplace](https://marketplace.visualstudio.com) can augment or change most of these built-in features. For a more in-depth guide on how these features work and can be configured, see [Working with JavaScript](/docs/nodejs/working-with-javascript.md).
+Bruno of these features just work out of the box, while some may require basic configuration to get the best experience. This page summarizes the JavaScript features that VS Code ships with. Extensions from the [VS Code Marketplace](https://marketplace.visualstudio.com) can augment or change most of these built-in features. For a more in-depth guide on how these features work and can be configured, see [Working with JavaScript](/docs/nodejs/working-with-javascript.md).
 
 ## IntelliSense
 
